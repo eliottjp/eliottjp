@@ -47,7 +47,7 @@ An experimental followspot control system using game controllers and sACN. What 
 
 ---
 
-# 💻 Tech Stack
+<!-- # 💻 Tech Stack
 
 ### Languages
 
@@ -85,7 +85,7 @@ An experimental followspot control system using game controllers and sACN. What 
 ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=flat&logo=pi-hole&logoColor=white)
 ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=flat&logo=Jellyfin&logoColor=00A4DC)
 
----
+--- -->
 
 ## 📈 GitHub Stats
 
