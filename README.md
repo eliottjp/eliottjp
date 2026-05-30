@@ -14,3 +14,19 @@ Most projects start with "this should be fairly simple" and somehow turn into mo
 
 ---
 
+## 🚀 Current Projects
+
+### NOCTA
+A concert tracking and event passport app designed to help people track and remember live events, because apparently taking hundreds of photos isn't enough.
+
+### Lightbase
+A professional lighting fixture reference app built so I can stop opening seventeen browser tabs every time I need a fixture specification.
+
+### Rate My Slide
+A community-driven platform for rating and discovering water slides and attractions. Somebody had to take this responsibility seriously.
+
+### SpotLink
+An experimental followspot control system using game controllers and sACN. What could possibly go wrong?
+
+---
+
