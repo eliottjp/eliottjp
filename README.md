@@ -87,6 +87,16 @@ An experimental followspot control system using game controllers and sACN. What 
 
 ---
 
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=eliottjp&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=eliottjp&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eliottjp&theme=dark&hide_border=true&layout=compact)
+
+---
+
 ### 👋 Thanks for stopping by!
 
 Most of my repositories started life as "quick little projects."
